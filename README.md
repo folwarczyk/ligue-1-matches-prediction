@@ -28,7 +28,7 @@ This project underscored the importance of every step in the machine learning wo
 
 
 ## Running the Project
-To run the project, you'll need Python along with several packages including Pandas, Numpy, Sklearn, and others. The main code for the project can be found in the Jupyter Notebook files in the jupyter-notebook directory: ligue_1_matches_prediction.ipynb, data preparation code can be found in the file ligue1_web_scraping.
+To run the project, you'll need Python along with several packages including Pandas, Numpy, Sklearn, and others. The main code for the project can be found in the Jupyter Notebook file in the jupyter-notebook directory: ligue_1_matches_prediction.ipynb, data preparation code can be found in the file ligue1_web_scraping.
 
 Clone the repository, install the necessary packages, and then you can run the notebook file in a Jupyter Notebook environment. Please make sure you have the required dataset available in your local directory for the notebook to access (you can use the data file located in the data folder, or web scrap your own file and customize it to your needs).
 
